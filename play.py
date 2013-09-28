@@ -1,4 +1,6 @@
 
+"""A simple rock, paper, scissor game, where the computer chooses the weapon randomly"""
+
 from random import choice
 import sys
 
