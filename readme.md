@@ -1,4 +1,4 @@
-game-1   (WORK IN PROGRESS)
+game-1   (work in progress)
 ======
 
 a game of rock-paper-scissors with the computer.
