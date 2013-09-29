@@ -1,7 +1,7 @@
 game-1   (work in progress)
 ======
 
-a game of rock-paper-scissors with the computer.
+a game of rock-paper-scissors with the computer, the user gets the option of  playing over a session and then get a overview.
 
 Intro
 ---------
